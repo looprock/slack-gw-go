@@ -1,0 +1,7 @@
+env
+orig
+orig/*
+secrets.txt
+slack-gw_dev
+slack-gw
+run.sh
